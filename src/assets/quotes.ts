@@ -1,0 +1,17 @@
+export const MATH_QUOTES = [
+  ['Plato', 'Geometry existed before creation'],
+  ['Proclus', 'Wherever there is number, there is beauty'],
+  ['Galileo', 'The book of nature is written in the language of mathematics'],
+  ['Carl Friedrich Gauss', 'Mathematics is the Queen of the Sciences'],
+  ['Albert Einstein', 'Pure mathematics is, in its way, the poetry of logical ideas'],
+  ['Plato', 'God forever geometrizes'],
+  ['Janos Bolyai', 'Out of Nothing, I have created a strange new universe'],
+  ['Roger Bacon', 'Mathematics is the door and key to the sciences'],
+  ['Galileo', 'Mathematics is the language with which God wrote the universe'],
+  ['Martin Gardner', 'Mathematics is not only real, but it is the only reality'],
+  ['Paul Halmos', 'The only way to learn mathematics is to do mathematics'],
+  ['James Joseph Sylvester', 'Mathematics is the music of reason'],
+  ['Roger Bacon', 'Mathematics is the gate and key to science'],
+  ['Snoop Dogg', 'If you stop at general math, then you will only make general money'],
+  ['Anonymous', 'Math is the source code of reality'],
+]
